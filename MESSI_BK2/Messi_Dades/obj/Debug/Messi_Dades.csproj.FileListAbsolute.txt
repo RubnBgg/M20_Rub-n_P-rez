@@ -1,0 +1,6 @@
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\bin\Debug\Biblioteca_Dades.dll.config
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\bin\Debug\Biblioteca_Dades.dll
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\bin\Debug\Biblioteca_Dades.pdb
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\obj\Debug\Messi_Dades.csproj.CoreCompileInputs.cache
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\obj\Debug\Biblioteca_Dades.dll
+C:\Users\rprod\Desktop\MESSI_BK2\Messi_Dades\obj\Debug\Biblioteca_Dades.pdb
